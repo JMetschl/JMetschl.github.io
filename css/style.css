@@ -7,12 +7,19 @@ body{
 #sidebar{
     margin:0;
     background-color: white;
-    width: 20%;
+    width: 30%;
     height: 100%;
 
 }
 
 .sidebar-icon{
+
+    width: 100%;
+    height: 20%;
+}
+
+.sidebar-icon-pic{
     width: 100px;
     height: 100px;
+
 }
