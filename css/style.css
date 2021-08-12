@@ -1,11 +1,18 @@
 body{
     margin: 0;
-    background-color: darkgray;
+    background-color: black;
 
 }
 
 #sidebar{
     margin:0;
     background-color: white;
+    width: 20%;
+    height: 100%;
 
+}
+
+.sidebar-icon{
+    width: 100px;
+    height: 100px;
 }
